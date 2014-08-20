@@ -1,0 +1,36 @@
+{
+    "name": "drmonty/smartmenus",
+    "description": "jQuery website menu plugin. Responsive and accessible list-based website menus that work on all devices.",
+    "type": "component",
+    "author": {
+        "name": "Vasil Dinkov",
+        "url": "http://vadikom.com"
+    },
+    "keywords": [
+        "dropdown",
+        "ui"
+    ],
+    "homepage": "http://www.smartmenus.org",
+    "license": "MIT",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "require": {
+        "components/jquery": ">=1.10.2"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/*.js"
+            ],
+            "files": [
+                "js/*.js",
+                "css/*.css",
+                "css/css-gradients-fallback/*.png"
+            ],
+            "shim": {
+                "deps": ["jquery"]
+            }
+        }
+    }
+}
