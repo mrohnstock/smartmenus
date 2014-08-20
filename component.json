@@ -10,7 +10,7 @@
         "url": "http://vadikom.com"
     },
     "dependencies": {
-        "jquery": ">=1.10.2"
+        "jquery": ">=1.4.4"
     },
     "keywords": [
         "dropdown",

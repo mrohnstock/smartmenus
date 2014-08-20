@@ -14,7 +14,7 @@
         "url": "https://github.com/drmonty/smartmenus.git"
     },
     "dependencies": {
-        "jquery": ">=1.10.2"
+        "jquery": ">=1.4.4"
     },
     "keywords": [
         "dropdown",
