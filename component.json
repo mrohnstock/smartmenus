@@ -2,7 +2,7 @@
     "name": "drmonty-smartmenus",
     "repo": "drmonty/smartmenus",
     "description": "jQuery website menu plugin. Responsive and accessible list-based website menus that work on all devices.",
-    "version": "0.9.6",
+    "version": "0.9.7",
     "homepage": "http://www.smartmenus.org",
     "license": "MIT",
     "author": {
@@ -22,8 +22,11 @@
     ],
     "files": [
         "js/jquery.smartmenus.js",
-        "js/jquery.smartmenus.bootstrap.js"
+        "js/jquery.smartmenues.min.js",
+        "js/jquery.smartmenus.bootstrap.js",
+        "js/jquery.smartmenus.bootstrap.min.js",
         "js/jquery.smartmenus.keyboard.js",
+        "js/jquery.smartmenus.keyboard.min.js",
         "css/jquery.smartmenus.bootstrap.css",
         "css/sm-blue.css",
         "css/sm-clean.css",

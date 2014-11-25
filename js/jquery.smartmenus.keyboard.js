@@ -1,12 +1,11 @@
-/*
- * SmartMenus jQuery Keyboard Addon - v0.1.0
+/*!
+ * SmartMenus jQuery Plugin Keyboard Addon - v0.1.0 - August 25, 2014
  * http://www.smartmenus.org/
  *
- * Copyright 2013 Vasil Dinkov, Vadikom Web Ltd.
- * http://vadikom.com/
+ * Copyright 2014 Vasil Dinkov, Vadikom Web Ltd.
+ * http://vadikom.com
  *
- * Released under the MIT license:
- * http://www.opensource.org/licenses/MIT
+ * Licensed MIT
  */
 
 (function($) {
