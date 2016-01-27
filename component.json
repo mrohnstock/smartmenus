@@ -2,7 +2,7 @@
     "name": "drmonty-smartmenus",
     "repo": "drmonty/smartmenus",
     "description": "jQuery website menu plugin. Responsive and accessible list-based website menus that work on all devices.",
-    "version": "0.9.7",
+    "version": "1.0.0",
     "homepage": "http://www.smartmenus.org",
     "license": "MIT",
     "author": {
@@ -32,11 +32,6 @@
         "css/sm-clean.css",
         "css/sm-core-css.css",
         "css/sm-mint.css",
-        "css/sm-simple.css",
-        "css/css-gradients-fallback/current-item-bg.png",
-        "css/css-gradients-fallback/main-item-hover-bg.png",
-        "css/css-gradients-fallback/main-menu-bg.png",
-        "css/css-gradients-fallback/sub-item-hover-bg.png",
-        "css/css-gradients-fallback/vertical-main-item-bg.png"
+        "css/sm-simple.css"
     ]
 }

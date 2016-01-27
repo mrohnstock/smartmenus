@@ -2,7 +2,7 @@
     "name": "drmonty-smartmenus",
     "description": "jQuery website menu plugin. Responsive and accessible list-based website menus that work on all devices.",
     "homepage": "http://www.smartmenus.org",
-    "version": "0.9.7",
+    "version": "1.0.0",
     "author": {
         "name": "Vasil Dinkov",
         "url": "http://vadikom.com"
@@ -11,7 +11,7 @@
     "main": "js/jquery.smartmenus.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drmonty/smartmenus.git"
+        "url": "https://github.com/mrohnstock/smartmenus.git"
     },
     "dependencies": {
         "jquery": ">=1.4.4"
